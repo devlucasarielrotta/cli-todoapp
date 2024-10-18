@@ -16,9 +16,8 @@
 
 
 ## Authors
-```
-* Lucas Ariel Rotta
-```
+- Lucas Ariel Rotta
+
 
 ## License
 ```
